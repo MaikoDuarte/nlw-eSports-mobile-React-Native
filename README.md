@@ -37,8 +37,8 @@
 </p>
 
 <h1 align="center">
-  <img alt="screenshot" title="home" src="./public/screenshot.png" />
-  <img alt="screenshot2" title="modal" src="./public/screenshot2.png" />
+  <img alt="screenshot" title="home" src="./assets/screenshot.png" />
+  <img alt="screenshot2" title="modal" src="./assets/screenshot2.png" />
 </h1>
 
 
